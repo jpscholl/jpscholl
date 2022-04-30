@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Jonathan Scholl
 - 🔭 I’m currently working on ... Practicing algorithms and C# concepts, my C# Discord bot (Dsharpplus), and a small unnamed rpg.
-- 🌱 I’m currently learning ... Advanced C# and game development (UR4/UR5 and Unity)
+- 🌱 I’m currently learning ... Advanced C# and game development (Unity)
 - 👯 I’m looking to collaborate on ... Any C# project and Dsharplus bot
 - 🤔 I’m looking for help with ... Asynchrounous programming
 - 📫 How to reach me: ... jpscholl88@gmail.com
