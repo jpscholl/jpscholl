@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Jonathan Scholl
 - 🔭 I’m currently working on ... Practicing algorithms and C# concepts, SQL, Typescript. Working on small projects for friends.
-- 🌱 I’m currently learning ... Advanced C# and game development (Godot)
+- 🌱 I’m currently learning ... Advanced C#, game development, ASP.NET MVC
 - 👯 I’m looking to collaborate on ... Any C# project and Dsharplus bot
 - 🤔 I’m looking for help with ... Asynchrounous programming
 - 📫 How to reach me: ... jpscholl88@gmail.com
