@@ -6,6 +6,7 @@ Hi there 👋 I'm Jonathan Scholl
 - 📫 How to reach me: jpscholl88@gmail.com
 - 😄 Pronouns: He/Him
 
+I will be adding stronger projects soon. For the time being, these are just learning exercises I've completed and a game I'm working on.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jpscholl&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
