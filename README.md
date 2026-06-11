@@ -1,10 +1,10 @@
 Hi there 👋 I'm Jonathan Scholl
-🔭 I’m currently building small projects in C# and .NET while strengthening my understanding of ASP.NET Core, SQL, and software fundamentals.
-🌱 I’m focused on C# development, ASP.NET Core (MVC / Web APIs), and database design with SQL Server.
-👯 I’m open to collaborating on beginner-to-intermediate C# or .NET projects, especially backend or API-based work.
-🤔 I’m currently improving my understanding of asynchronous programming and backend architecture concepts.
-📫 How to reach me: jpscholl88@gmail.com
-😄 Pronouns: He/Him
+- 🔭 I’m currently building small projects in C# and .NET while strengthening my understanding of ASP.NET Core, SQL, and software fundamentals.
+- 🌱 I’m focused on C# development, ASP.NET Core (MVC / Web APIs), and database design with SQL Server.
+- 👯 I’m open to collaborating on beginner-to-intermediate C# or .NET projects, especially backend or API-based work.
+- 🤔 I’m currently improving my understanding of asynchronous programming and backend architecture concepts.
+- 📫 How to reach me: jpscholl88@gmail.com
+- 😄 Pronouns: He/Him
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jpscholl&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
